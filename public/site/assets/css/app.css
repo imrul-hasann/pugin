@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap);html,
+html a {
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  -ms-overflow-style: scrollbar;
+}
+
+body {
+  font-family: "Fredoka One", cursive;
+  color: #282828;
+  overflow-x: hidden;
+}
+
+/* #Media Queries
+================================================== */
+
+body {
+  background-color: #222222;
+}
+

@@ -1,0 +1,15 @@
+// Base
+@import 'base/base';
+@import 'base/variables';
+@import 'base/responsive';
+
+// Pages
+@import 'pages/landing-page';
+
+// body
+
+body {
+  background-color: #222222;
+}
+
+// Header Nav

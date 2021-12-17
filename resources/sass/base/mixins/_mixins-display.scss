@@ -1,0 +1,24 @@
+$head-web-display: (
+    null: block,
+    767px: none
+);
+$head-app-display: (
+    null: none,
+    767px: block
+);
+$head2-web-display: (
+    null: block,
+    991px: none
+);
+$head2-app-display: (
+    null: none,
+    991px: block
+);
+$igo-cart-item-img-display: (
+    null: null,
+    500px: none
+);
+$igo-cart-item-img2-display: (
+    null: none,
+    500px: block
+);
