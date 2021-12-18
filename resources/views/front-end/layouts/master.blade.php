@@ -359,7 +359,8 @@
                         </div>
                     </div>
                 </div>
-            </section><section class="elementor-section elementor-top-section elementor-element elementor-element-3e00c15 elementor-section-height-min-height elementor-section-content-middle header-2 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-motion-effects-element elementor-sticky elementor-sticky__spacer" data-id="3e00c15" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:97,&quot;end&quot;:100}},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;sticky_effects_offset_mobile&quot;:20,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="opacity: 1; will-change: opacity; --e-transform-transition-duration:100ms; visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
+            </section>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-3e00c15 elementor-section-height-min-height elementor-section-content-middle header-2 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-motion-effects-element elementor-sticky elementor-sticky__spacer" data-id="3e00c15" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:97,&quot;end&quot;:100}},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;sticky_effects_offset_mobile&quot;:20,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="opacity: 1; will-change: opacity; --e-transform-transition-duration:100ms; visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-row">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a916cd7" data-id="a916cd7" data-element_type="column">
@@ -656,8 +657,8 @@
                                                                                         <div class="elementor-element elementor-element-8c6d710 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8c6d710" data-element_type="widget" data-widget_type="divider.default">
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
+                                                                                                    <span class="elementor-divider-separator">
+                                                                                                    </span>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
@@ -677,11 +678,12 @@
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-button-wrapper">
                                                                                                     <a href="https://puginblack.com/#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<i aria-hidden="true" class="fas fa-minus"></i>			</span>
-<span class="elementor-button-text"></span>
-</span>
+                                                                                                        <span class="elementor-button-content-wrapper">
+                                                                                                            <span class="elementor-button-icon elementor-align-icon-left">
+                                                                                                                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 469.33333 469" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(1.04,0,0,1.04,-9.386640624999927,183.28664062500002)"><path xmlns="http://www.w3.org/2000/svg" d="m437.332031.167969h-405.332031c-17.664062 0-32 14.335937-32 32v21.332031c0 17.664062 14.335938 32 32 32h405.332031c17.664063 0 32-14.335938 32-32v-21.332031c0-17.664063-14.335937-32-32-32zm0 0" fill="#000000" data-original="#000000" class=""></path></g></svg>
+                                                                                                            </span>
+                                                                                                            <span class="elementor-button-text"></span>
+                                                                                                        </span>
                                                                                                     </a>
                                                                                                 </div>
                                                                                             </div>
@@ -690,9 +692,9 @@
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-button-wrapper">
                                                                                                     <a href="https://puginblack.com/#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">1</span>
-</span>
+                                                                                                        <span class="elementor-button-content-wrapper">
+                                                                                                        <span class="elementor-button-text">1</span>
+                                                                                                        </span>
                                                                                                     </a>
                                                                                                 </div>
                                                                                             </div>
@@ -701,11 +703,18 @@
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-button-wrapper">
                                                                                                     <a href="https://puginblack.com/#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<i aria-hidden="true" class="fas fa-plus"></i>			</span>
-<span class="elementor-button-text"></span>
-</span>
+                                                                                                        <span class="elementor-button-content-wrapper">
+                                                                                                        <span class="elementor-button-icon elementor-align-icon-left">
+                                                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 256 256" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g transform="matrix(1.01,0,0,1.01,-1.2800000000000011,-1.2800000000000011)">
+                                                                                                                <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                                    <g>
+                                                                                                                        <polygon points="160,96 160,0 96,0 96,96 0,96 0,160 96,160 96,256 160,256 160,160 256,160 256,96   " fill="#000000" data-original="#000000" class=""></polygon>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </svg>
+                                                                                                        </span>
+                                                                                                        <span class="elementor-button-text"></span>
+                                                                                                        </span>
                                                                                                     </a>
                                                                                                 </div>
                                                                                             </div>
@@ -952,14 +961,33 @@ Three Gaming Modes					</span>
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-icon-box-wrapper">
                                                                                                     <div class="elementor-icon-box-icon">
-<span class="elementor-icon elementor-animation-">
-<i aria-hidden="true" class="fas fa-gamepad"></i>				</span>
+                                                                                                        <span class="elementor-icon elementor-animation-">
+                                                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 321.145 321.145" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><svg>
+                                                                                                                <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                                    <g>
+                                                                                                                        <path d="M320.973,200.981c-0.8-18.4-4-38.8-8.8-58c-4.8-18.4-10.8-35.6-18-48.8c-28-49.2-58.4-41.6-94.8-32    c-11.6,2.8-24,6-36.8,7.2h-4c-12.8-1.2-25.2-4.4-36.8-7.2c-36.4-9.2-66.8-17.2-94.8,32.4c-7.2,13.2-13.6,30.4-18,48.8    c-4.8,19.2-8,39.6-8.8,58c-0.8,20.4,1.2,35.2,5.6,45.6c4.4,9.6,10.8,15.6,19.2,18c7.6,2,16.4,1.2,25.6-2.8    c15.6-6.4,33.6-20,51.2-36.4c12.4-12,35.6-18,58.8-18s46.4,6,58.8,18c17.6,16.4,35.6,30,51.2,36.4c9.2,3.6,18,4.8,25.6,2.8    c8-2.4,14.8-8,19.2-18.4C319.773,236.581,321.773,221.781,320.973,200.981z M301.773,240.981c-2.4,5.6-5.6,8.8-9.6,10    c-4.4,1.2-10,0.4-16.4-2c-14-5.6-30.4-18-46.4-33.2c-15.2-15.2-42-22.8-68.8-22.8s-53.6,7.6-69.2,22c-16.4,15.2-32.8,28-46.4,33.2    c-6.4,2.4-12,3.6-16.4,2c-4-1.2-7.2-4.4-9.6-10c-3.2-7.6-4.8-20-4-38.4c0.8-17.2,3.6-36.8,8.4-55.2c4.4-17.2,10-33.2,16.8-45.2    c22-39.6,47.6-33.2,78-25.2c12.4,3.2,25.2,6.4,39.2,7.6c0.4,0,0.4,0,0.8,0h4.4c0.4,0,0.4,0,0.8,0c14.4-1.2,27.2-4.4,39.6-7.6    c30.4-7.6,56-14.4,78,25.2c6.8,12,12.4,27.6,16.8,45.2c4.4,18.4,7.6,37.6,8.4,55.2    C306.973,220.181,305.373,232.581,301.773,240.981z" fill="#fffff data-original="#fffff" class=""></path>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                                <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                                    <g>
+                                                                                                                        <path d="M123.773,122.981c-4-3.6-8.8-6.4-14.4-6.8c-0.4-5.2-2.8-10.4-6.4-14l-0.4-0.4c-4.4-4.4-10-6.8-16.4-6.8    c-6.4,0-12.4,2.8-16.4,6.8c-3.6,3.6-6.4,8.8-6.8,14.4c-5.6,0.4-10.4,2.8-14.4,6.4l-0.4,0.4c-4.4,4.4-6.8,10-6.8,16.4    c0,6.4,2.8,12.4,6.8,16.4c4,4,8.8,6.4,14.8,6.8c0.4,5.6,2.8,10.8,6.8,14.4c4.4,4.4,10,6.8,16.4,6.8c6.4,0,12.4-2.8,16.4-6.8    c3.6-4,6.4-8.8,6.8-14.4c5.6-0.4,10.8-2.8,14.4-6.8c4.4-4.4,6.8-10,6.8-16.4C130.573,132.981,127.773,126.981,123.773,122.981z     M113.773,145.381c-1.6,1.6-3.6,2.4-6,2.4h-5.6c-4,0-7.6,3.2-7.6,7.6v5.2c0,2.4-0.8,4.4-2.4,6c-1.6,1.6-3.6,2.4-6,2.4    c-2.4,0-4.4-0.8-6-2.4c-1.6-1.6-2.4-3.6-2.4-6v-5.6c0-4-3.2-7.6-7.6-7.6h-5.6c-2.4,0-4.4-0.8-6-2.4c-1.2-1.2-2.4-3.2-2.4-5.6    c0-2.4,0.8-4.4,2.4-6c0,0,0,0,0.4-0.4c1.6-1.2,3.6-2,5.6-2h5.6c4,0,7.6-3.2,7.6-7.6v-5.6c0-2.4,0.8-4.4,2.4-6    c1.6-1.6,3.6-2.4,6-2.4c2.4,0,4.4,0.8,6,2.4c0,0,0,0,0.4,0.4c1.2,1.6,2,3.6,2,5.6v5.6c0,4,3.2,7.6,7.6,7.6h5.6    c2.4,0,4.4,0.8,6,2.4c1.6,1.6,2.4,3.6,2.4,6C116.173,141.781,115.373,143.781,113.773,145.381z" fill="#fffff" data-original="#fffff" class=""></path>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                                    <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                                    <g>
+                                                                                                                        <circle cx="230.173" cy="110.981" r="14" fill="#ffff" data-original="#fffff" class=""></circle>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                                <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                                    <g>
+                                                                                                                        <circle cx="230.173" cy="167.781" r="14" fill="#fffff" data-original="#ffff" class=""></circle>
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </svg>>
+                                                                                                        </span>
                                                                                                     </div>
                                                                                                     <div class="elementor-icon-box-content">
-                                                                                                        <h3 class="elementor-icon-box-title">
-<span>
-Gaming Platform					</span>
-                                                                                                        </h3>
+                                                                                                        <h3 class="elementor-icon-box-title"><span>Gaming Platform</span></h3>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1159,7 +1187,7 @@ Inspired by Men In Black					</span>
                                                                                                                                     <div class="elementor-element elementor-element-069c31d elementor-widget elementor-widget-image" data-id="069c31d" data-element_type="widget" data-widget_type="image.default">
                                                                                                                                         <div class="elementor-widget-container">
                                                                                                                                             <div class="elementor-image">
-                                                                                                                                                <img width="1024" height="1024" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/2-1024x1024.jpg 1024w, https://puginblack.com/wp-content/uploads/2021/12/2-300x300.jpg 300w, https://puginblack.com/wp-content/uploads/2021/12/2-150x150.jpg 150w, https://puginblack.com/wp-content/uploads/2021/12/2-768x768.jpg 768w, https://puginblack.com/wp-content/uploads/2021/12/2-1536x1536.jpg 1536w, https://puginblack.com/wp-content/uploads/2021/12/2.jpg 2000w" data-src="https://puginblack.com/wp-content/uploads/2021/12/2-1024x1024.jpg" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1024" height="1024" src="https://puginblack.com/wp-content/uploads/2021/12/2-1024x1024.jpg" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/2-1024x1024.jpg 1024w, https://puginblack.com/wp-content/uploads/2021/12/2-300x300.jpg 300w, https://puginblack.com/wp-content/uploads/2021/12/2-150x150.jpg 150w, https://puginblack.com/wp-content/uploads/2021/12/2-768x768.jpg 768w, https://puginblack.com/wp-content/uploads/2021/12/2-1536x1536.jpg 1536w, https://puginblack.com/wp-content/uploads/2021/12/2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>														</div>
+                                                                                                                                                <img width="1024" height="1024" alt="" data-srcset="{{ asset('site/assets/img/cli/1.jpg') }}" data-src="{{asset('site/assets/img/cli/1.jpg')}}" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large lazyload" src="{{asset('site/assets/img/cli/1.jpg')}}"><noscript><img width="1024" height="1024" src="{{asset('site/assets/img/cli/1.jpg')}}" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/2-1024x1024.jpg 1024w, https://puginblack.com/wp-content/uploads/2021/12/2-300x300.jpg 300w, https://puginblack.com/wp-content/uploads/2021/12/2-150x150.jpg 150w, https://puginblack.com/wp-content/uploads/2021/12/2-768x768.jpg 768w, https://puginblack.com/wp-content/uploads/2021/12/2-1536x1536.jpg 1536w, https://puginblack.com/wp-content/uploads/2021/12/2.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>														</div>
                                                                                                                                         </div>
                                                                                                                                     </div>
                                                                                                                                 </div>
@@ -1697,7 +1725,9 @@ Inspired by Men In Black					</span>
                                                                                         <div class="elementor-element elementor-element-4771a7c elementor-widget elementor-widget-image" data-id="4771a7c" data-element_type="widget" data-widget_type="image.default">
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-image">
-                                                                                                    <img width="1310" height="1420" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346.png 1310w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-277x300.png 277w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-945x1024.png 945w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-768x832.png 768w" data-src="https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346.png" data-sizes="(max-width: 1310px) 100vw, 1310px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="1310" height="1420" src="https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346.png" class="attachment-full size-full" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346.png 1310w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-277x300.png 277w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-945x1024.png 945w, https://puginblack.com/wp-content/uploads/2021/12/icon9-min-e1638523878346-768x832.png 768w" sizes="(max-width: 1310px) 100vw, 1310px" /></noscript>														</div>
+                                                                                                    <img src="{{asset('site/assets/img/cli/icon9-min-e.png')}}"
+                                                                                                         alt="">
+                                                                                                </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -1725,7 +1755,8 @@ Inspired by Men In Black					</span>
                                                                                         <div class="elementor-element elementor-element-c3b92c4 elementor-widget elementor-widget-image" data-id="c3b92c4" data-element_type="widget" data-widget_type="image.default">
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-image">
-                                                                                                    <img width="919" height="1024" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-919x1024.png 919w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-269x300.png 269w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-768x856.png 768w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751.png 1137w" data-src="https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-919x1024.png" data-sizes="(max-width: 919px) 100vw, 919px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="919" height="1024" src="https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-919x1024.png" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-919x1024.png 919w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-269x300.png 269w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751-768x856.png 768w, https://puginblack.com/wp-content/uploads/2021/12/2ICON-min-e1638523108751.png 1137w" sizes="(max-width: 919px) 100vw, 919px" /></noscript>														</div>
+                                                                                                    <img src="{{asset('site/assets/img/cli/2ICON-min-e.png')}}"alt="">
+                                                                                                </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -1747,7 +1778,8 @@ Inspired by Men In Black					</span>
                                                                                         <div class="elementor-element elementor-element-73ad5a8 elementor-widget elementor-widget-image" data-id="73ad5a8" data-element_type="widget" data-widget_type="image.default">
                                                                                             <div class="elementor-widget-container">
                                                                                                 <div class="elementor-image">
-                                                                                                    <img width="649" height="1024" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-649x1024.png 649w, https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-190x300.png 190w, https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344.png 705w" data-src="https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-649x1024.png" data-sizes="(max-width: 649px) 100vw, 649px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="649" height="1024" src="https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-649x1024.png" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-649x1024.png 649w, https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344-190x300.png 190w, https://puginblack.com/wp-content/uploads/2021/12/5ICON-min-e1638523146344.png 705w" sizes="(max-width: 649px) 100vw, 649px" /></noscript>														</div>
+                                                                                                    <img src="{{asset('site/assets/img/cli/5ICON-min-e.png')}}"alt="">
+                                                                                                </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -1772,7 +1804,8 @@ Inspired by Men In Black					</span>
                                                                 <div class="elementor-element elementor-element-c82bdb6 elementor-widget elementor-widget-image" data-id="c82bdb6" data-element_type="widget" data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
-                                                                            <img width="526" height="1024" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-526x1024.png 526w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-154x300.png 154w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-768x1495.png 768w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-789x1536.png 789w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218.png 816w" data-src="https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-526x1024.png" data-sizes="(max-width: 526px) 100vw, 526px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="526" height="1024" src="https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-526x1024.png" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-526x1024.png 526w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-154x300.png 154w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-768x1495.png 768w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218-789x1536.png 789w, https://puginblack.com/wp-content/uploads/2021/12/2-min-e1638468635218.png 816w" sizes="(max-width: 526px) 100vw, 526px" /></noscript>														</div>
+                                                                            <img src="{{asset('site/assets/img/cli/2-min-e.png')}}"alt="">
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1855,7 +1888,8 @@ Inspired by Men In Black					</span>
                                                                 <div class="elementor-element elementor-element-ddfecd6 elementor-widget elementor-widget-image" data-id="ddfecd6" data-element_type="widget" data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
-                                                                            <img width="648" height="1024" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-648x1024.png 648w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-190x300.png 190w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-768x1214.png 768w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-972x1536.png 972w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327.png 1008w" data-src="https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-648x1024.png" data-sizes="(max-width: 648px) 100vw, 648px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="648" height="1024" src="https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-648x1024.png" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-648x1024.png 648w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-190x300.png 190w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-768x1214.png 768w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327-972x1536.png 972w, https://puginblack.com/wp-content/uploads/2021/12/1-min-e1638468555327.png 1008w" sizes="(max-width: 648px) 100vw, 648px" /></noscript>														</div>
+                                                                            <img src="{{asset('site/assets/img/cli/1-min-e.png')}}"alt="">
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2878,7 +2912,8 @@ Inspired by Men In Black					</span>
                                                                 <div class="elementor-element elementor-element-92050ff elementor-widget elementor-widget-image" data-id="92050ff" data-element_type="widget" data-widget_type="image.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-image">
-                                                                            <img width="1024" height="614" alt="" data-srcset="https://puginblack.com/wp-content/uploads/2021/11/pugface-1024x614.png 1024w, https://puginblack.com/wp-content/uploads/2021/11/pugface-300x180.png 300w, https://puginblack.com/wp-content/uploads/2021/11/pugface-768x461.png 768w, https://puginblack.com/wp-content/uploads/2021/11/pugface-1536x922.png 1536w, https://puginblack.com/wp-content/uploads/2021/11/pugface.png 2000w" data-src="https://puginblack.com/wp-content/uploads/2021/11/pugface-1024x614.png" data-sizes="(max-width: 1024px) 100vw, 1024px" class="attachment-large size-large ls-is-cached lazyloaded" src="/site/PIB/pugface-1024x614.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://puginblack.com/wp-content/uploads/2021/11/pugface-1024x614.png 1024w, https://puginblack.com/wp-content/uploads/2021/11/pugface-300x180.png 300w, https://puginblack.com/wp-content/uploads/2021/11/pugface-768x461.png 768w, https://puginblack.com/wp-content/uploads/2021/11/pugface-1536x922.png 1536w, https://puginblack.com/wp-content/uploads/2021/11/pugface.png 2000w"><noscript><img width="1024" height="614" src="https://puginblack.com/wp-content/uploads/2021/11/pugface-1024x614.png" class="attachment-large size-large" alt="" srcset="https://puginblack.com/wp-content/uploads/2021/11/pugface-1024x614.png 1024w, https://puginblack.com/wp-content/uploads/2021/11/pugface-300x180.png 300w, https://puginblack.com/wp-content/uploads/2021/11/pugface-768x461.png 768w, https://puginblack.com/wp-content/uploads/2021/11/pugface-1536x922.png 1536w, https://puginblack.com/wp-content/uploads/2021/11/pugface.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>														</div>
+                                                                            <img src="{{asset('site/assets/img/cli/pugface.png')}}"alt="">
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -4116,80 +4151,192 @@ Inspired by Men In Black					</span>
                                                                         <div class="elementor-toggle" role="tablist">
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2521" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-2521" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">How to buy Pug In Black NFT?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2521" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2521"><p class="p1">Purchase Ethereum on a crypto exchange.</p><p class="p1">Transfer your crypto to a crypto wallet. Think of it as a digital checking account that stores and transfers your cryptocurrency.<span class="Apple-converted-space">&nbsp;</span></p><p class="p1">Connect your wallet to an NFT marketplace.</p><p class="p1">Wait for the Mint day and buy via our website.</p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2522" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-2522" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                        <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">When is the launch?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2522" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2522"><p class="p1">Our discord and twitter followers will find out first! Keep an eye on our announcements (psst! Christmas week)</p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2523" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-2523" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">How much is each Pug In Black and how many NFTs are in this collection?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2523" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-2523"><p class="p1">There will be 5,555 pieces available for mint at 0.0455 ETH each.</p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2524" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-2524" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">Where will my Pug in Black NFT go after I purchase it?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2524" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-2524"><p class="p1">You can see your pug(s) on OpenSea. (opensea.io)</p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2525" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-2525" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">Does the game use the player’s skills to win, or does the character’s stats in the game?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2525" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-2525"><p><span style="font-weight: 400;">Phase 1 has only one mode, Treasure Hunt, allowing users to mine Pug through Pug Heroes. The PVP function in phase 4 will allow players to use their skills more. However, we also need time to analyze user trends and preferences before deciding to design a PVP.</span></p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2526" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-2526" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">Is the game required to buy a House for Pug Hero?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2526" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-2526"><p><span style="font-weight: 400;">Not mandatory. If there is no house, Pug Hero will rest with a slow recovery speed.</span></p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2527" class="elementor-tab-title" data-tab="7" role="tab" aria-controls="elementor-tab-content-2527" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">Does Pug Crypto plan to update the graphics?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2527" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-2527"><p><span style="font-weight: 400;">Graphics are improved gradually but still have classic pixel style.</span></p></div>
                                                                             </div>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2528" class="elementor-tab-title" data-tab="8" role="tab" aria-controls="elementor-tab-content-2528" aria-expanded="false">
-<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-<span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i></span>
-</span>
+                                                                                    <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">Does the game have any special mechanics to play and retain players for a long time?</a>
                                                                                 </div>
                                                                                 <div id="elementor-tab-content-2528" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-2528"><p><span style="font-weight: 400;">The game will have many different game modes to satisfy the needs of all gamers as well as investors. </span><span style="font-weight: 400;">Featured functions include Story Mode, Treasure Hunt Mode, PvP Mode, collect &amp; sell special NFT items.</span></p><ul><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The game has three main playstyles suitable for many audiences. For example, busy people will love the Treasure Hunt mode.</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The game has a Story Mode suitable for offline gamers who like to explore experiences and still earn money.</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The game has a PVP Mode ideal for gamers who like to play online with competition and high skills.</span></li></ul></div>
@@ -4197,8 +4344,22 @@ Inspired by Men In Black					</span>
                                                                             <div class="elementor-toggle-item">
                                                                                 <div id="elementor-tab-title-2529" class="elementor-tab-title" data-tab="9" role="tab" aria-controls="elementor-tab-content-2529" aria-expanded="false">
                                                                                     <span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-                                                                                    <span class="elementor-toggle-icon-closed"><i class="fas fa-chevron-down"></i></span>
-                                                                                    <span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-chevron-up"></i>
+                                                                                    <span class="elementor-toggle-icon-closed">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 451.847 451.847" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751   c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0   c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
+                                                                                    <span class="elementor-toggle-icon-opened">
+                                                                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 492.002 492.002" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+                                                                                            <g xmlns="http://www.w3.org/2000/svg">
+                                                                                                <g>
+                                                                                                    <path d="M484.136,328.473L264.988,109.329c-5.064-5.064-11.816-7.844-19.172-7.844c-7.208,0-13.964,2.78-19.02,7.844    L7.852,328.265C2.788,333.333,0,340.089,0,347.297c0,7.208,2.784,13.968,7.852,19.032l16.124,16.124    c5.064,5.064,11.824,7.86,19.032,7.86s13.964-2.796,19.032-7.86l183.852-183.852l184.056,184.064    c5.064,5.06,11.82,7.852,19.032,7.852c7.208,0,13.96-2.792,19.028-7.852l16.128-16.132    C494.624,356.041,494.624,338.965,484.136,328.473z" fill="#ffffff" data-original="#000000" class=""></path>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </svg>
+                                                                                    </span>
                                                                                     </span>
                                                                                     </span>
                                                                                     <a href="https://puginblack.com/" class="elementor-toggle-title">What’s outstanding about Pug Crypto to attract players?</a>
@@ -4293,8 +4454,15 @@ Inspired by Men In Black					</span>
                                                                     <div class="elementor-social-icons-wrapper elementor-grid">
                                                                         <span class="elementor-grid-item">
                                                                         <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a229ff5" href="https://twitter.com/PUGINBLACK_NFT" target="_blank">
-                                                                        <span class="elementor-screen-only">Twitter</span>
-                                                                        <i class="fab fa-twitter"></i>					</a>
+                                                                            <span class="elementor-screen-only">Twitter</span>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="hovered-paths"><g>
+                                                                                <g xmlns="http://www.w3.org/2000/svg">
+                                                                                    <g>
+                                                                                        <path d="M512,97.248c-19.04,8.352-39.328,13.888-60.48,16.576c21.76-12.992,38.368-33.408,46.176-58.016    c-20.288,12.096-42.688,20.64-66.56,25.408C411.872,60.704,384.416,48,354.464,48c-58.112,0-104.896,47.168-104.896,104.992    c0,8.32,0.704,16.32,2.432,23.936c-87.264-4.256-164.48-46.08-216.352-109.792c-9.056,15.712-14.368,33.696-14.368,53.056    c0,36.352,18.72,68.576,46.624,87.232c-16.864-0.32-33.408-5.216-47.424-12.928c0,0.32,0,0.736,0,1.152    c0,51.008,36.384,93.376,84.096,103.136c-8.544,2.336-17.856,3.456-27.52,3.456c-6.72,0-13.504-0.384-19.872-1.792    c13.6,41.568,52.192,72.128,98.08,73.12c-35.712,27.936-81.056,44.768-130.144,44.768c-8.608,0-16.864-0.384-25.12-1.44    C46.496,446.88,101.6,464,161.024,464c193.152,0,298.752-160,298.752-298.688c0-4.64-0.16-9.12-0.384-13.568    C480.224,136.96,497.728,118.496,512,97.248z" fill="#ffffff" data-original="#000000" class="hovered-path"></path>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </svg>
+                                                                        </a>
                                                                         </span>
                                                                                                                                                 <span class="elementor-grid-item">
                                                                         <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-f861997" href="https://t.co/CbhdJHFpbp" target="_blank">
