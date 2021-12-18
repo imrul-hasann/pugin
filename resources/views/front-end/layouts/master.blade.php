@@ -183,7 +183,7 @@
 <a class="skip-link screen-reader-text" href="https://puginblack.com/#content" role="link" title="Pereiti prie turinio">
     Pereiti prie turinio</a>
 <div class="hfeed site" id="page">
-    <div data-elementor-type="header" data-elementor-id="618" class="elementor elementor-618 elementor-location-header" data-elementor-settings="[]">
+    <div class="elementor elementor-618 elementor-location-header">
         <div class="elementor-section-wrap elementor-motion-effects-parent">
             <section class="elementor-section elementor-top-section elementor-element elementor-element-cec760a elementor-section-height-min-height elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile header-2 elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-sticky elementor-sticky--effects elementor-sticky--active elementor-section--handles-inside" data-id="cec760a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_range&quot;:&quot;viewport&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="position: fixed; width: 1903px; margin-top: 0px; margin-bottom: 0px; top: 0px;">
                 <div class="elementor-container elementor-column-gap-default">
@@ -232,11 +232,11 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
                                                 <a href="https://t.co/CbhdJHFpbp" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18" fill="none"><path d="M19.496 2.33596C17.5568 0.777561 14.4904 0.513561 14.3608 0.502361C14.156 0.484761 13.9616 0.600761 13.8776 0.787961C13.8744 0.794361 13.7032 1.29116 13.5376 1.77036C15.7912 2.16476 17.3224 3.03996 17.404 3.08796C17.7864 3.31036 17.9144 3.80076 17.6912 4.18236C17.5432 4.43676 17.2752 4.57916 17 4.57916C16.8632 4.57916 16.7256 4.54476 16.5992 4.47116C16.5768 4.45756 14.3304 3.17916 11.4016 3.17916C8.47201 3.17916 6.22481 4.45836 6.20241 4.47116C5.82081 4.69276 5.33121 4.56236 5.10961 4.17996C4.88801 3.79916 5.01681 3.31036 5.39761 3.08796C5.47921 3.03996 7.01601 2.16156 9.27601 1.76796C9.10161 1.28316 8.92561 0.794361 8.92241 0.787961C8.83841 0.599961 8.64401 0.481561 8.43921 0.502361C8.30961 0.512761 5.24321 0.776761 3.27841 2.35676C2.25121 3.30556 0.200012 8.85276 0.200012 13.6488C0.200012 13.7336 0.221612 13.816 0.264012 13.8896C1.68081 16.3776 5.54321 17.0288 6.42321 17.0568C6.42881 17.0576 6.43361 17.0576 6.43841 17.0576C6.59361 17.0576 6.74001 16.9832 6.83201 16.8576L7.78401 15.568C5.69601 15.0648 4.59201 14.2736 4.52561 14.2248C4.17041 13.9632 4.09361 13.4624 4.35521 13.1064C4.61601 12.752 5.11521 12.6736 5.47041 12.9336C5.50001 12.9528 7.53761 14.3792 11.4 14.3792C15.2776 14.3792 17.3096 12.9472 17.3296 12.9328C17.6848 12.6752 18.1856 12.7528 18.4456 13.1096C18.7048 13.4648 18.6296 13.9624 18.276 14.2232C18.2096 14.272 17.1112 15.0616 15.028 15.5648L15.968 16.8568C16.06 16.9832 16.2064 17.0568 16.3616 17.0568C16.3672 17.0568 16.372 17.0568 16.3768 17.056C17.2576 17.028 21.12 16.3768 22.536 13.8888C22.5784 13.8152 22.6 13.7328 22.6 13.648C22.6 8.85276 20.5488 3.30556 19.496 2.33596ZM8.20001 11.9792C7.31601 11.9792 6.60001 11.084 6.60001 9.97916C6.60001 8.87436 7.31601 7.97916 8.20001 7.97916C9.08401 7.97916 9.80001 8.87436 9.80001 9.97916C9.80001 11.084 9.08401 11.9792 8.20001 11.9792ZM14.6 11.9792C13.716 11.9792 13 11.084 13 9.97916C13 8.87436 13.716 7.97916 14.6 7.97916C15.484 7.97916 16.2 8.87436 16.2 9.97916C16.2 11.084 15.484 11.9792 14.6 11.9792Z" fill="#1D1D1F"></path></svg>			</span>
-<span class="elementor-button-text">Join Discord</span>
-</span>
+                                                    <span class="elementor-button-content-wrapper">
+                                                    <span class="elementor-button-icon elementor-align-icon-left">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18" fill="none"><path d="M19.496 2.33596C17.5568 0.777561 14.4904 0.513561 14.3608 0.502361C14.156 0.484761 13.9616 0.600761 13.8776 0.787961C13.8744 0.794361 13.7032 1.29116 13.5376 1.77036C15.7912 2.16476 17.3224 3.03996 17.404 3.08796C17.7864 3.31036 17.9144 3.80076 17.6912 4.18236C17.5432 4.43676 17.2752 4.57916 17 4.57916C16.8632 4.57916 16.7256 4.54476 16.5992 4.47116C16.5768 4.45756 14.3304 3.17916 11.4016 3.17916C8.47201 3.17916 6.22481 4.45836 6.20241 4.47116C5.82081 4.69276 5.33121 4.56236 5.10961 4.17996C4.88801 3.79916 5.01681 3.31036 5.39761 3.08796C5.47921 3.03996 7.01601 2.16156 9.27601 1.76796C9.10161 1.28316 8.92561 0.794361 8.92241 0.787961C8.83841 0.599961 8.64401 0.481561 8.43921 0.502361C8.30961 0.512761 5.24321 0.776761 3.27841 2.35676C2.25121 3.30556 0.200012 8.85276 0.200012 13.6488C0.200012 13.7336 0.221612 13.816 0.264012 13.8896C1.68081 16.3776 5.54321 17.0288 6.42321 17.0568C6.42881 17.0576 6.43361 17.0576 6.43841 17.0576C6.59361 17.0576 6.74001 16.9832 6.83201 16.8576L7.78401 15.568C5.69601 15.0648 4.59201 14.2736 4.52561 14.2248C4.17041 13.9632 4.09361 13.4624 4.35521 13.1064C4.61601 12.752 5.11521 12.6736 5.47041 12.9336C5.50001 12.9528 7.53761 14.3792 11.4 14.3792C15.2776 14.3792 17.3096 12.9472 17.3296 12.9328C17.6848 12.6752 18.1856 12.7528 18.4456 13.1096C18.7048 13.4648 18.6296 13.9624 18.276 14.2232C18.2096 14.272 17.1112 15.0616 15.028 15.5648L15.968 16.8568C16.06 16.9832 16.2064 17.0568 16.3616 17.0568C16.3672 17.0568 16.372 17.0568 16.3768 17.056C17.2576 17.028 21.12 16.3768 22.536 13.8888C22.5784 13.8152 22.6 13.7328 22.6 13.648C22.6 8.85276 20.5488 3.30556 19.496 2.33596ZM8.20001 11.9792C7.31601 11.9792 6.60001 11.084 6.60001 9.97916C6.60001 8.87436 7.31601 7.97916 8.20001 7.97916C9.08401 7.97916 9.80001 8.87436 9.80001 9.97916C9.80001 11.084 9.08401 11.9792 8.20001 11.9792ZM14.6 11.9792C13.716 11.9792 13 11.084 13 9.97916C13 8.87436 13.716 7.97916 14.6 7.97916C15.484 7.97916 16.2 8.87436 16.2 9.97916C16.2 11.084 15.484 11.9792 14.6 11.9792Z" fill="#1D1D1F"></path></svg>			</span>
+                                                    <span class="elementor-button-text">Join Discord</span>
+                                                    </span>
                                                 </a>
                                             </div>
                                         </div>
@@ -246,7 +246,9 @@
                         </div>
                     </div>
                 </div>
-            </section><section class="elementor-section elementor-top-section elementor-element elementor-element-cec760a elementor-section-height-min-height elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile header-2 elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-sticky elementor-sticky__spacer" data-id="cec760a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_range&quot;:&quot;viewport&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
+            </section>
+
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-cec760a elementor-section-height-min-height elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile header-2 elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-sticky elementor-sticky__spacer" data-id="cec760a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_range&quot;:&quot;viewport&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-row">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6c7530e" data-id="6c7530e" data-element_type="column">
@@ -293,11 +295,11 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
                                                 <a href="https://t.co/CbhdJHFpbp" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-icon elementor-align-icon-left">
-<svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18" fill="none"><path d="M19.496 2.33596C17.5568 0.777561 14.4904 0.513561 14.3608 0.502361C14.156 0.484761 13.9616 0.600761 13.8776 0.787961C13.8744 0.794361 13.7032 1.29116 13.5376 1.77036C15.7912 2.16476 17.3224 3.03996 17.404 3.08796C17.7864 3.31036 17.9144 3.80076 17.6912 4.18236C17.5432 4.43676 17.2752 4.57916 17 4.57916C16.8632 4.57916 16.7256 4.54476 16.5992 4.47116C16.5768 4.45756 14.3304 3.17916 11.4016 3.17916C8.47201 3.17916 6.22481 4.45836 6.20241 4.47116C5.82081 4.69276 5.33121 4.56236 5.10961 4.17996C4.88801 3.79916 5.01681 3.31036 5.39761 3.08796C5.47921 3.03996 7.01601 2.16156 9.27601 1.76796C9.10161 1.28316 8.92561 0.794361 8.92241 0.787961C8.83841 0.599961 8.64401 0.481561 8.43921 0.502361C8.30961 0.512761 5.24321 0.776761 3.27841 2.35676C2.25121 3.30556 0.200012 8.85276 0.200012 13.6488C0.200012 13.7336 0.221612 13.816 0.264012 13.8896C1.68081 16.3776 5.54321 17.0288 6.42321 17.0568C6.42881 17.0576 6.43361 17.0576 6.43841 17.0576C6.59361 17.0576 6.74001 16.9832 6.83201 16.8576L7.78401 15.568C5.69601 15.0648 4.59201 14.2736 4.52561 14.2248C4.17041 13.9632 4.09361 13.4624 4.35521 13.1064C4.61601 12.752 5.11521 12.6736 5.47041 12.9336C5.50001 12.9528 7.53761 14.3792 11.4 14.3792C15.2776 14.3792 17.3096 12.9472 17.3296 12.9328C17.6848 12.6752 18.1856 12.7528 18.4456 13.1096C18.7048 13.4648 18.6296 13.9624 18.276 14.2232C18.2096 14.272 17.1112 15.0616 15.028 15.5648L15.968 16.8568C16.06 16.9832 16.2064 17.0568 16.3616 17.0568C16.3672 17.0568 16.372 17.0568 16.3768 17.056C17.2576 17.028 21.12 16.3768 22.536 13.8888C22.5784 13.8152 22.6 13.7328 22.6 13.648C22.6 8.85276 20.5488 3.30556 19.496 2.33596ZM8.20001 11.9792C7.31601 11.9792 6.60001 11.084 6.60001 9.97916C6.60001 8.87436 7.31601 7.97916 8.20001 7.97916C9.08401 7.97916 9.80001 8.87436 9.80001 9.97916C9.80001 11.084 9.08401 11.9792 8.20001 11.9792ZM14.6 11.9792C13.716 11.9792 13 11.084 13 9.97916C13 8.87436 13.716 7.97916 14.6 7.97916C15.484 7.97916 16.2 8.87436 16.2 9.97916C16.2 11.084 15.484 11.9792 14.6 11.9792Z" fill="#1D1D1F"></path></svg>			</span>
-<span class="elementor-button-text">Join Discord</span>
-</span>
+                                                    <span class="elementor-button-content-wrapper">
+                                                    <span class="elementor-button-icon elementor-align-icon-left">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="23" height="18" viewBox="0 0 23 18" fill="none"><path d="M19.496 2.33596C17.5568 0.777561 14.4904 0.513561 14.3608 0.502361C14.156 0.484761 13.9616 0.600761 13.8776 0.787961C13.8744 0.794361 13.7032 1.29116 13.5376 1.77036C15.7912 2.16476 17.3224 3.03996 17.404 3.08796C17.7864 3.31036 17.9144 3.80076 17.6912 4.18236C17.5432 4.43676 17.2752 4.57916 17 4.57916C16.8632 4.57916 16.7256 4.54476 16.5992 4.47116C16.5768 4.45756 14.3304 3.17916 11.4016 3.17916C8.47201 3.17916 6.22481 4.45836 6.20241 4.47116C5.82081 4.69276 5.33121 4.56236 5.10961 4.17996C4.88801 3.79916 5.01681 3.31036 5.39761 3.08796C5.47921 3.03996 7.01601 2.16156 9.27601 1.76796C9.10161 1.28316 8.92561 0.794361 8.92241 0.787961C8.83841 0.599961 8.64401 0.481561 8.43921 0.502361C8.30961 0.512761 5.24321 0.776761 3.27841 2.35676C2.25121 3.30556 0.200012 8.85276 0.200012 13.6488C0.200012 13.7336 0.221612 13.816 0.264012 13.8896C1.68081 16.3776 5.54321 17.0288 6.42321 17.0568C6.42881 17.0576 6.43361 17.0576 6.43841 17.0576C6.59361 17.0576 6.74001 16.9832 6.83201 16.8576L7.78401 15.568C5.69601 15.0648 4.59201 14.2736 4.52561 14.2248C4.17041 13.9632 4.09361 13.4624 4.35521 13.1064C4.61601 12.752 5.11521 12.6736 5.47041 12.9336C5.50001 12.9528 7.53761 14.3792 11.4 14.3792C15.2776 14.3792 17.3096 12.9472 17.3296 12.9328C17.6848 12.6752 18.1856 12.7528 18.4456 13.1096C18.7048 13.4648 18.6296 13.9624 18.276 14.2232C18.2096 14.272 17.1112 15.0616 15.028 15.5648L15.968 16.8568C16.06 16.9832 16.2064 17.0568 16.3616 17.0568C16.3672 17.0568 16.372 17.0568 16.3768 17.056C17.2576 17.028 21.12 16.3768 22.536 13.8888C22.5784 13.8152 22.6 13.7328 22.6 13.648C22.6 8.85276 20.5488 3.30556 19.496 2.33596ZM8.20001 11.9792C7.31601 11.9792 6.60001 11.084 6.60001 9.97916C6.60001 8.87436 7.31601 7.97916 8.20001 7.97916C9.08401 7.97916 9.80001 8.87436 9.80001 9.97916C9.80001 11.084 9.08401 11.9792 8.20001 11.9792ZM14.6 11.9792C13.716 11.9792 13 11.084 13 9.97916C13 8.87436 13.716 7.97916 14.6 7.97916C15.484 7.97916 16.2 8.87436 16.2 9.97916C16.2 11.084 15.484 11.9792 14.6 11.9792Z" fill="#1D1D1F"></path></svg>			</span>
+                                                    <span class="elementor-button-text">Join Discord</span>
+                                                    </span>
                                                 </a>
                                             </div>
                                         </div>
@@ -308,6 +310,7 @@
                     </div>
                 </div>
             </section>
+
             <section class="elementor-section elementor-top-section elementor-element elementor-element-3e00c15 elementor-section-height-min-height elementor-section-content-middle header-2 elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-motion-effects-element elementor-sticky elementor-sticky--effects elementor-sticky--active elementor-section--handles-inside" data-id="3e00c15" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:97,&quot;end&quot;:100}},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:200,&quot;sticky_effects_offset_mobile&quot;:20,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}" style="--e-transform-transition-duration:100ms; position: fixed; margin-top: 0px; margin-bottom: 0px; top: 0px; opacity: 1; will-change: opacity;">
                 <div class="elementor-container elementor-column-gap-default">
                     <div class="elementor-row">
@@ -387,7 +390,8 @@
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1800"><a href="https://black-pug.gitbook.io/puginblack-whitepaper/" class="elementor-item menu-link">Whitepaper</a></li>
                                                 </ul>			</nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-                                                <i aria-hidden="true" role="presentation" class="eicon-menu-bar"></i>			<span class="elementor-screen-only">Menu</span>
+                                                <i aria-hidden="true" role="presentation" class="eicon-menu-bar"></i>
+                                                <span class="elementor-screen-only">Menu</span>
                                             </div>
                                             <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
                                                 <ul id="menu-2-7027e3b" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="https://puginblack.com/#features" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Features</a></li>
@@ -396,7 +400,8 @@
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1799"><a href="https://puginblack.com/#roadmap" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Roadmap</a></li>
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2757"><a href="https://puginblack.com/#team" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Team</a></li>
                                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1800"><a href="https://black-pug.gitbook.io/puginblack-whitepaper/" class="elementor-item menu-link" tabindex="-1">Whitepaper</a></li>
-                                                </ul>			</nav>
+                                                </ul>
+                                            </nav>
                                         </div>
                                     </div>
                                 </div>
@@ -407,13 +412,14 @@
             </section>
         </div>
     </div>
+
     <div id="content" class="site-content">
         <div class="ast-container">
             <div id="primary" class="content-area primary">
                 <main id="main" class="site-main">
                     <article class="post-12 page type-page status-publish ast-article-single" id="post-12" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
                         <header class="entry-header ast-header-without-markup">
-                        </header><!-- .entry-header -->
+                        </header>
                         <div class="entry-content clear" itemprop="text">
                             <div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12" data-elementor-settings="[]">
                                 <div class="elementor-inner">
@@ -464,7 +470,8 @@
                                                                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1799"><a href="https://puginblack.com/#roadmap" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Roadmap</a></li>
                                                                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2757"><a href="https://puginblack.com/#team" class="elementor-item elementor-item-anchor menu-link" tabindex="-1">Team</a></li>
                                                                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1800"><a href="https://black-pug.gitbook.io/puginblack-whitepaper/" class="elementor-item menu-link" tabindex="-1">Whitepaper</a></li>
-                                                                                                    </ul>			</nav>
+                                                                                                    </ul>
+                                                                                                </nav>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -4215,7 +4222,8 @@ Inspired by Men In Black					</span>
                 </main><!-- #main -->
             </div><!-- #primary -->
         </div> <!-- ast-container -->
-    </div><!-- #content -->
+    </div>
+
     <div data-elementor-type="footer" data-elementor-id="312" class="elementor elementor-312 elementor-location-footer" data-elementor-settings="[]">
         <div class="elementor-section-wrap">
             <footer class="elementor-section elementor-top-section elementor-element elementor-element-16ad0cba elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16ad0cba" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -4310,7 +4318,9 @@ Inspired by Men In Black					</span>
             </footer>
         </div>
     </div>
-</div><!-- #page -->
+
+</div>
+<!-- #page -->
 <div class="eael-reading-progress-wrap eael-reading-progress-wrap-local"><div class="eael-reading-progress eael-reading-progress-local eael-reading-progress-top">
         <div class="eael-reading-progress-fill" style="width: 100%;"></div>
     </div></div>        <meta http-equiv="imagetoolbar" content="no"><!-- disable image toolbar (if any) -->
@@ -4470,7 +4480,9 @@ Inspired by Men In Black					</span>
         jQuery.cachedScript( uael_url );
     });
 </script>
-<script src="/site/PIB/preloaded-elements-handlers.min.js.download" id="pro-preloaded-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script src="/site/PIB/preloaded-elements-handlers.min.js.download" id="pro-preloaded-elements-handlers-js">
+</script>
+<svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
 <script src="/site/PIB/preloaded-modules.min.js.download" id="preloaded-modules-js"></script>
 <script src="/site/PIB/jquery.sticky.min.js.download" id="e-sticky-js"></script>
 <script src="/site/PIB/underscore.min.js.download" id="underscore-js"></script>
