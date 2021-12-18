@@ -7,16 +7,24 @@
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link href="/site/assets/css/loader.css" rel="stylesheet" />
     <!-- Bootstrap core CSS -->
-    <link href="/site/assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="{{asset('site/assets/css/bootstrap.css')}}" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ asset('site/assets/fontawesome/css/all.css') }}">
 
-    <link rel="stylesheet" type="text/css" href="/site/assets/css/app.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="{{asset('site/assets/css/app.css')}}" media="screen"/>
 
     <title>PIB – Action-packed video game</title>
 
     @yield('css')
 </head>
 
-<body class="responsive">
+<body>
+
+<div class="progress-wrap">
+    <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+    </div>
+</div>
+
 
 @include('front-end.layouts.header')
 
@@ -30,55 +38,29 @@
 
 
 <script type="text/javascript">
-    $(document).on('click', '.flaticon-menu-1', function (e) {
-        $('#off-canvas-menu').css('left', '0');
-    });
-    $(document).on('click', '.flaticon-cancel', function (e) {
-        $('#off-canvas-menu').css('left', '-280px');
-    });
-    $(document).on('click', '#openPlaylist .playlist-toggle', function (e) {
-        if ($(this).hasClass('open')) {
-            $(this).removeClass('open');
-            $('#playlist').removeClass('open');
-        } else {
-            $(this).addClass('open');
-            $('#playlist').addClass('open');
+
+    /* === Shrink Header on Scroll === */
+    var header = $('.header-2');
+    var shrinkIt = header.height();
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+        if ( scroll >= shrinkIt ) {
+            header.addClass('sticky-header');
+        }
+        else {
+            header.removeClass('sticky-header');
         }
     });
-    $(document).on('click', '.jp-play', function (e) {
-        if ($(this).hasClass('now-playing')) {
-            $(this).removeClass('now-playing');
-            $(this).parents('.jp-audio').removeClass('jp-state-playing');
-        } else {
-            $(this).addClass('now-playing');
-            $(this).parents('.jp-audio').addClass('jp-state-playing');
-        }
-    });
-    $(document).on('click', '.jpl-play', function (e) {
-        if ($(this).hasClass('now-playing')) {
-            $(this).removeClass('now-playing');
-        } else {
-            $(this).addClass('now-playing');
-        }
-    });
-    $(document).on('click', '.expander', function (e) {
-        if ($(this).hasClass('open')) {
-            $(this).removeClass('open');
-            $(this).text('+');
-            $(this).parent().siblings('.tabBlock').css('display', 'none');
-        } else {
-            $(this).addClass('open');
-            $(this).text('-');
-            $(this).parent().siblings('.tabBlock').addClass('open');
-            $(this).parent().siblings('.tabBlock').css('display', 'block');
-        }
-    });
-    $(document).on('mouseenter', '.social-widgets .item', function (e) {
-        $(this).addClass('active');mas
-    });
-    $(document).on('mouseleave', '.social-widgets .item', function (e) {
-        $(this).removeClass('active');
-    });
+
+    window.onscroll = function() {myFunction()};
+
+    function myFunction() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("myBar").style.width = scrolled + "%";
+    }
+
 </script>
 </body>
 
