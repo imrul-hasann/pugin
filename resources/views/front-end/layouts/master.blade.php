@@ -93,7 +93,7 @@
         #scrollUp:hover{opacity:1;}
         .top-icon{stroke:#ffffff;}
     </style>
-    <!-- End Scroll Top - https://wordpress.org/plugins/scroll-top/ -->
+    <!-- End Scroll Top -->
     <script>
         document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
     </script>
@@ -110,27 +110,6 @@
     <style>
         .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
     </style>
-
-
-
-    <link href="/site/assets/css/loader.css" rel="stylesheet" />
-    <!-- Bootstrap core CSS -->
-    <link href="/site/assets/css/bootstrap.css" rel="stylesheet" />
-    <!-- Custom styles for this template -->
-    <!-- CSS modules -->
-    <!-- <link href="/site/assets/css/flexslider.css" rel="stylesheet" /> -->
-    <link href="/site/assets/css/sfmenu.css" rel="stylesheet" />
-    <link href="/site/assets/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
-    <link href="/site/assets/jplayer/skin/liveradio/css/jplayer.liveradio.css" rel="stylesheet"/>
-    <link href="/site/assets/fonts/flaticon-liveradio/flaticon.css" rel="stylesheet"/>
-    <link href="/site/assets/css/timeline.css" rel="stylesheet" />
-    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-    <link rel="stylesheet" type="text/css" href="/site/assets/rs-plugin/css/settings.css" />
-    {{--    <link rel="stylesheet" type="text/css" href="/site/assets/css/liveradio-template.css"/>--}}
-    <link rel="stylesheet" type="text/css" href="/site/assets/css/app.css" media="screen"/>
-
-    @yield('css')
-
 
     
 </head>
@@ -194,9 +173,11 @@
         </div>
     </div>
 </div>
-<a class="skip-link screen-reader-text" href="https://puginblack.com/#content" role="link" title="Pereiti prie turinio">Pereiti prie turinio</a>
+<a class="skip-link screen-reader-text" href="/" role="link" title="Pereiti prie turinio">Pereiti prie turinio</a>
 <div class="hfeed site" id="page">
-    @include('front-end.layouts.header')
+    <div data-elementor-type="header" data-elementor-id="618" class="elementor elementor-618 elementor-location-header" data-elementor-settings="[]">
+        @include('front-end.layouts.header')
+    </div>
 
     @yield('main')
 
