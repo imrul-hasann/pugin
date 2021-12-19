@@ -110,6 +110,29 @@
     <style>
         .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
     </style>
+
+
+
+    <link href="/site/assets/css/loader.css" rel="stylesheet" />
+    <!-- Bootstrap core CSS -->
+    <link href="/site/assets/css/bootstrap.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <!-- CSS modules -->
+    <!-- <link href="/site/assets/css/flexslider.css" rel="stylesheet" /> -->
+    <link href="/site/assets/css/sfmenu.css" rel="stylesheet" />
+    <link href="/site/assets/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
+    <link href="/site/assets/jplayer/skin/liveradio/css/jplayer.liveradio.css" rel="stylesheet"/>
+    <link href="/site/assets/fonts/flaticon-liveradio/flaticon.css" rel="stylesheet"/>
+    <link href="/site/assets/css/timeline.css" rel="stylesheet" />
+    <!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+    <link rel="stylesheet" type="text/css" href="/site/assets/rs-plugin/css/settings.css" />
+    {{--    <link rel="stylesheet" type="text/css" href="/site/assets/css/liveradio-template.css"/>--}}
+    <link rel="stylesheet" type="text/css" href="/site/assets/css/app.css" media="screen"/>
+
+    @yield('css')
+
+
+    
 </head>
 <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home page-template-default page page-id-12 ast-single-post ast-replace-site-logo-transparent ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.5 elementor-default elementor-kit-5 elementor-page elementor-page-12 astra-addon-3.6.3 e--ua-blink e--ua-chrome e--ua-webkit complete ast-mouse-clicked" style="" data-elementor-device-mode="desktop" data-new-gr-c-s-check-loaded="14.1042.0" data-gr-ext-installed=""><div class="preloader-plus complete"> 			<div class="prog-bar-wrapper">
         <div class="prog-bar-bg"></div>
